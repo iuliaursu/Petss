@@ -28,7 +28,7 @@ class Images extends Component {
 class MenuItem extends Component {
     render() {
         return (
-            <div className="dropdown">
+            <div className="continutbuton">
                 <button className="dropbtn">Obito
                     <i className="fa fa-caret-down"></i>
                 </button>

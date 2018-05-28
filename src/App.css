@@ -26,12 +26,12 @@ h1 {
   text-decoration: none;
 }
 
-.dropdown {
+.continutbuton {
   float: left;
   overflow: hidden;
 }
 
-.dropdown .dropbtn {
+.continutbuton .dropbtn {
   font-size: 16px;
   border: none;
   outline: none;
@@ -42,7 +42,7 @@ h1 {
   margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar a:hover, .continutbuton:hover .dropbtn {
   background-color: red;
 }
 
@@ -62,7 +62,7 @@ h1 {
   color: white;
 }
 
-.dropdown:hover .dropdown-content {
+.continutbuton:hover .dropdown-content {
   display: block;
 }
 
